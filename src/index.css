@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  }
+  
+  h1, h2, h3, .font-serif-display {
+    font-family: 'Cinzel', Georgia, serif;
+    letter-spacing: 0.04em;
+  }
+}
+
+.gold-gradient-text {
+  background: linear-gradient(135deg, #DFC06E 0%, #C9A24B 50%, #A88132 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.gold-border-glow {
+  box-shadow: 0 0 15px -3px rgba(201, 162, 75, 0.15);
+}

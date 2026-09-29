@@ -1,0 +1,6 @@
+{
+  "name": "TEXNOMAX - Lüks Tikinti və Təmir Şirkəti",
+  "description": "Bakıda fərdi villaların, premium mənzillərin və kommersiya obyektlərinin yüksək səviyyəli tikinti, təmir və müəllif interyer dizaynı.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
